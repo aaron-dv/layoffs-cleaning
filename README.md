@@ -21,7 +21,8 @@ This project focuses on cleaning and preparing a dataset related to layoffs in v
 
 ### Data Sources
 
-The primary dataset used for this analysis is the 'Layoffs Dataset', found on Kaggle - accessible [here](https://www.kaggle.com/datasets/swaptr/layoffs-2022).
+The primary dataset used for this analysis is the 'Layoffs Dataset', found on Kaggle - it is current up until March 2023.
+The latest version of this dataset can be accessed [here](https://www.kaggle.com/datasets/swaptr/layoffs-2022).
 
 ---
 
